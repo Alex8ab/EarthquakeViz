@@ -12,7 +12,7 @@ Map includes:
 - Popups that provide the place, time and magnitude of the earthquake when a marker is clicked.
 - A legend that shows the grades of magnitude.
 
-## Step 1
+## Step 2
 **Objetive:** Create a map to illustrate the relationship between tectonic plates and seismic activity.
 
 Map includes:
