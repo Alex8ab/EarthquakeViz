@@ -1,7 +1,7 @@
 # Earthquake Vizualization
 Set of tools that allow visualize earthquake data in leaflet maps.  The United States Geological Survey (USGS) collect a massive amount of data from all over the world each day about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. This project display the earthquake data over a leaflet map to give it more meaning.
 
-The USGS provides earthquake data in Json format from the past 7 days this information is used to display the magnitude and place.
+The USGS provides earthquake data in Json format from the past 7 days, this information is used to display the magnitude and place.
 **Data Source:** [USGS - GeoJSON Summary Format](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
 
 ## Step 1
