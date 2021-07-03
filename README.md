@@ -22,3 +22,7 @@ Map includes:
 - All specifications from Leaflet Step 1.
 - Base maps to choose from and a separated two different data sets into overlay that can be turned on and off independently.
 - Layer controls.
+
+![Earthquake step 2-1](/Earthquake2.png)
+
+![Earthquake step 2-2](/Earthquake3.png)
